@@ -1,4 +1,4 @@
-# [Miss Rose Bot](https://t.me/MissRose_bot)
+# [Bika Help Bot](https://t.me/BikaAssistanceRobot)
 
 ### Deploy
 
